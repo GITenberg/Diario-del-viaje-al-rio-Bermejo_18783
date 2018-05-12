@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8247'
     url: http://www.gutenberg.org/2009/agents/8247
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18783#Diario-del-viaje-al-rio-Bermejo
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-07-08'
 gutenberg_type: Text
