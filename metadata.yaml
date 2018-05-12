@@ -1,0 +1,26 @@
+_repo: Diario-del-viaje-al-rio-Bermejo_18783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morillo, Francisco
+    gutenberg_agent_id: '8247'
+    url: http://www.gutenberg.org/2009/agents/8247
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18783'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bermejo River (Bolivia and Argentina) -- Discovery and exploration'
+- !lcc 'F2801'
+- !lcsh 'Gran Chaco -- Discovery and exploration'
+title: Diario del viaje al rio Bermejo
+url: http://www.gutenberg.org/ebooks/18783
